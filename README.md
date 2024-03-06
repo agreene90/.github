@@ -1,4 +1,4 @@
-# Ant Geene (AGREENE90)
+# Ant Geene
 
 ## About Me
 - Passionate coder with interests in machine learning, data science, and software development.
